@@ -2,5 +2,5 @@
   "name": "Digital Forensics Evidence Locker",
   "description": "نظام إدارة الأدلة الرقمية الجنائية مع تتبع سلسلة الحفظ، التحقق من سلامة البصمات، وعرض شبكة العلاقات البيانية",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_Ai_API"]
 }
